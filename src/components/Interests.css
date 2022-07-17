@@ -1,0 +1,7 @@
+.interests {
+    display: none;
+    align-items: center;  
+  }
+  .interests svg {
+    margin:var(--spacing-1);
+  }
